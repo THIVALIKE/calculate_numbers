@@ -1,0 +1,6 @@
+C:\Users\ELCOT\Desktop\Git ex\sampleAppV3\GIT_DEMO\GIT_DEMO\bin\Debug\GIT_DEMO.exe.config
+C:\Users\ELCOT\Desktop\Git ex\sampleAppV3\GIT_DEMO\GIT_DEMO\bin\Debug\GIT_DEMO.exe
+C:\Users\ELCOT\Desktop\Git ex\sampleAppV3\GIT_DEMO\GIT_DEMO\bin\Debug\GIT_DEMO.pdb
+C:\Users\ELCOT\Desktop\Git ex\sampleAppV3\GIT_DEMO\GIT_DEMO\obj\Debug\GIT_DEMO.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Desktop\Git ex\sampleAppV3\GIT_DEMO\GIT_DEMO\obj\Debug\GIT_DEMO.exe
+C:\Users\ELCOT\Desktop\Git ex\sampleAppV3\GIT_DEMO\GIT_DEMO\obj\Debug\GIT_DEMO.pdb
