@@ -10,6 +10,14 @@ namespace GIT_DEMO
     {
         static void Main(string[] args)
         {
+
         }
+        #region Add Two num
+
+        #endregion
+
+        #region Add Two product
+
+        #endregion
     }
 }
